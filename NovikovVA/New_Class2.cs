@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace NovikovVA
 {
-    internal class Program
+    internal class New_Class2
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
-//NovikovVA Am-1-24
