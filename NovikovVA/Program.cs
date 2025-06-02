@@ -8,8 +8,9 @@ namespace NovikovVA
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static public double Sqr(double X)
         {
+            return X * X;
         }
     }
 }
